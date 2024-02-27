@@ -1,6 +1,5 @@
 ### video-calling-chat-app
-this video calling app uses webrtc react socket io and express In next version we will integrate web assembly
-
+this video calling app uses webrtc react socket io and express
 for installing use
 ```shell
 1. use vite as a build tool
